@@ -1,4 +1,4 @@
-# 🛡️ NyxVault: Adaptive AI Deception System for Banking Threat Detection
+#  NyxVault: Adaptive AI Deception System for Banking Threat Detection
 > **Built for the AWS BuildTour Hackathon**
 
 [![AWS Amplify](https://img.shields.io/badge/AWS-Amplify%20Gen%202-FF9900?logo=aws-amplify&logoColor=white)](https://aws.amazon.com/amplify/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 **NyxVault** is a next-generation, AI-driven cyber deception and threat detection platform built for financial institutions. Modern advanced persistent threats (APTs) and insider attackers evade perimeter defenses by quietly hopping across banking infrastructure. 
 
@@ -22,7 +22,7 @@ NyxVault solves this by transforming the bank's digital topology into an active,
 
 ---
 
-## ☁️ Cloud Architecture & AWS Integration
+##  Cloud Architecture & AWS Integration
 
 ### Why AWS Amplify (Gen 2)?
 > **Hackathon Architecture Note**:  
@@ -62,7 +62,7 @@ NyxVault solves this by transforming the bank's digital topology into an active,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 nyxvault/
@@ -111,7 +111,7 @@ nyxvault/
 
 ---
 
-## 🚀 Quickstart & Local Execution
+##  Quickstart & Local Execution
 
 ### 1. Prerequisites
 - **Python 3.11+**
@@ -151,21 +151,9 @@ npm run dev
 ```
 * Web Dashboard: [http://localhost:5173](http://localhost:5173)
 
----
 
-## 🧪 Verification & Automated Testing
-
-The project includes an end-to-end test suite validating ML anomaly detection, XAI explanations, Dijkstra attack paths, and fraud ring detection:
-
-```powershell
-cd backend
-pytest
-```
-*Expected Output: `5 passed`*
-
----
 
 ## 👥 Team & Submission
 * **Event**: AWS BuildTour Hackathon
-* **Project**: NyxVault Lite
+* **Project**: NyxVault 
 * **Repository**: [https://github.com/Prakruthi-codes/Nyxvault.git](https://github.com/Prakruthi-codes/Nyxvault.git)
